@@ -56,6 +56,7 @@ const s = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'flex-start',
     justifyContent: 'flex-start',
-    padding: 50
+    padding: 20,
+    paddingTop: 60
   },
 });
